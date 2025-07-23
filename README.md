@@ -1,5 +1,6 @@
 
-<h3 align="center">Just a curious coder who loves to break things and fix them again 😅 Front-end explorer | Back-end struggler Trying to learn one bug at a time 🐛</h3>
+<h3 align="center">Just a curious coder who loves to break things and fix them again 😅 Front-end explorer | 
+  Back-end struggler Trying to learn one bug at a time 🐛</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/sabbidevr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/sabbidevr" height="30" width="40" /></a>
