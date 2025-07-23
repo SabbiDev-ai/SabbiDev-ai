@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, It's me SABBI RAHman</h1>
+
 <h3 align="center">Just a curious coder who loves to break things and fix them again 😅 Front-end explorer | Back-end struggler Trying to learn one bug at a time 🐛</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
